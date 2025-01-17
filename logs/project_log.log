@@ -1,0 +1,29 @@
+2025-01-16 18:21:38.255 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-16 18:21:38.263 | INFO     | __main__:main:106 - START producer...
+2025-01-16 18:21:38.264 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-16 18:21:38.264 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-16 18:21:38.265 | INFO     | __main__:main:114 - I just shared a movie! It was weird.
+2025-01-16 18:21:41.266 | INFO     | __main__:main:114 - I just shared a story! It was boring.
+2025-01-16 18:21:44.268 | INFO     | __main__:main:114 - I just shared a trick! It was exciting.
+2025-01-16 18:21:47.269 | INFO     | __main__:main:114 - I just shared a story! It was weird.
+2025-01-16 18:21:50.270 | INFO     | __main__:main:114 - I just shared a trick! It was boring.
+2025-01-16 18:21:53.272 | INFO     | __main__:main:114 - I just saw a meme! It was weird.
+2025-01-16 18:21:56.274 | INFO     | __main__:main:114 - I just tried an app! It was weird.
+2025-01-16 18:21:59.274 | INFO     | __main__:main:114 - I just shared a story! It was amazing.
+2025-01-16 18:22:02.275 | INFO     | __main__:main:114 - I just loved a trick! It was exciting.
+2025-01-16 18:22:05.277 | INFO     | __main__:main:114 - I just tried a trick! It was amazing.
+2025-01-16 18:22:06.669 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-16 18:22:06.670 | INFO     | __main__:main:68 - START...
+2025-01-16 18:22:06.670 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-16 18:22:08.279 | INFO     | __main__:main:114 - I just tried a movie! It was amazing.
+2025-01-16 18:22:11.281 | INFO     | __main__:main:114 - I just saw a meme! It was boring.
+2025-01-16 18:22:14.283 | INFO     | __main__:main:114 - I just saw an app! It was exciting.
+2025-01-16 18:22:17.284 | INFO     | __main__:main:114 - I just shared a story! It was funny.
+2025-01-16 18:22:20.286 | INFO     | __main__:main:114 - I just found a trick! It was exciting.
+2025-01-16 18:22:23.288 | INFO     | __main__:main:114 - I just loved a trick! It was exciting.
+2025-01-16 18:22:26.290 | INFO     | __main__:main:114 - I just tried an app! It was amazing.
+2025-01-16 18:22:29.292 | INFO     | __main__:main:114 - I just loved a movie! It was boring.
+2025-01-16 18:22:32.294 | INFO     | __main__:main:114 - I just shared a meme! It was funny.
+2025-01-16 18:22:35.295 | INFO     | __main__:main:114 - I just shared a story! It was weird.
+2025-01-16 18:22:38.297 | INFO     | __main__:main:114 - I just saw a trick! It was exciting.
+2025-01-16 18:22:41.299 | INFO     | __main__:main:114 - I just tried an app! It was exciting.
