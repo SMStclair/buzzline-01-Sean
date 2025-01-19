@@ -52,9 +52,9 @@ def process_message(log_file) -> None:
             print(f"Consumed log message: {message}")
 
             # monitor and alert on special conditions
-            if "I just loved a movie! It was funny." in message:
-                print(f"ALERT: The special message was found! \n{message}")
-                logger.warning(f"ALERT: The special message was found! \n{message}")
+            if "I recently stopped all film theory! It was random." in message:
+                print(f"ALERT: You had a bad opinion! \n{message}")
+                logger.warning(f"ALERT: You had a bad opinion! \n{message}")
 
 
 #####################################
